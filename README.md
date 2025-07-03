@@ -1,4 +1,4 @@
-Desenvolvedora .NET com foco em SAP Business One | C# | SQL Server | HANA
+Desenvolvedora .NET com foco em SAP Business One | C# | SQL Server | HANA | Crystal Reports
 
 --> Certificação: SAP Certified Application Associate – SAP Business One Release 10.0 (2024)
 
